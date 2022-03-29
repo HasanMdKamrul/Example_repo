@@ -1,1 +1,2 @@
-Learning the git and GitHub.
+Git & GitHub
+An Example Repo to Learn the basics
